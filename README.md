@@ -10,6 +10,7 @@ I think this Mod Mail bot is better than the others because it is very light wei
 2. Install the [nextcord](https://pypi.org/project/nextcord/) and [Python-Dotenv](https://pypi.org/project/python-dotenv/) modules.
 3. In the terminal or command prompt run `git clone https://github.com/yavda1/discord-modmail` and then `cd discord-modmail`.
 4. Open the `main.py` file in any code/text editor and change lines 17 and 44 with your respective guild and channel IDs.
+5. Open the `.env` file in any code/text editor and put your bots token.
 5. Run `python3 main.py`.
 
 ## What are the commands?
