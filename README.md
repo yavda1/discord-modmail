@@ -1,11 +1,7 @@
 # discord-modmail
 A light weight and simple Discord mod mail bot.
 
-Now, you might be wondering, why is this Mod Mail bot better than the others?
-
-I think this Mod Mail bot is better than the others because it is very light weight and simple. Less than 150 lines and has all the key features of other bots. It is a lot easier to modify because the code is so simple that even a baby could read it! 
-
-## How to self-host:  
+## How to self-host  
 1. Install [Python](https://www.python.org/), [Pip](https://pypi.org/project/pip/) and [Git](https://git-scm.com/).
 2. Install the [nextcord](https://pypi.org/project/nextcord/) and [Python-Dotenv](https://pypi.org/project/python-dotenv/) modules.
 3. In the terminal or command prompt run `git clone https://github.com/yavda1/discord-modmail` and then `cd discord-modmail`.
